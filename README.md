@@ -1,4 +1,4 @@
-Just a backup of mwordlists I use. There are major lists are added as submodules.
+Just a backup of wordlists I use. Major wordlists are added as submodules.
 
 ## Installation
 ```
