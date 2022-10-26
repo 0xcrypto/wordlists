@@ -1,0 +1,12 @@
+[submodule "SecLists"]
+	path = SecLists
+	url = https://github.com/danielmiessler/SecLists
+[submodule "PayloadsAllTheThings"]
+	path = PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings
+[submodule "whack"]
+	path = whack
+	url = https://github.com/0xcrypto/whack
+[submodule "wordlists"]
+	path = wordlists
+	url = https://github.com/xajkep/wordlists
