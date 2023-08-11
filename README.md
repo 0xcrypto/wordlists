@@ -1,10 +1,3 @@
-Just a backup of wordlists I use. Major wordlists are added as submodules.
+Just a backup of wordlists I use.
 
-## Installation
-```bash
-git clone --recurse-submodules git@github.com:0xcrypto/wordlists.git
-
-# or using http
-# git clone --recurse-submodules https://github.com/0xcrypto/wordlists.git
-```
-
+See https://projects.eval.blog/whack to install this and many other wordlists.
