@@ -10,3 +10,6 @@
 [submodule "wordlists"]
 	path = wordlists
 	url = https://github.com/xajkep/wordlists
+[submodule "fuzz.txt"]
+	path = fuzz.txt
+	url = git@github.com:Bo0oM/fuzz.txt.git
